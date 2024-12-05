@@ -22,5 +22,6 @@ Este es un proyecto de una aplicación de lista de tareas (To-Do List) utilizand
    ```bash
    git clone https://github.com/tuusuario/to-do-list.git
    cd to-do-list/backend
+   python app.py
 
   
